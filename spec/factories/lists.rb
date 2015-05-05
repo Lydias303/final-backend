@@ -1,7 +1,7 @@
 FactoryGirl.define do
-  factory :todo do
+  factory :list do
     title "MyString"
-is_completed false
+todo "MyString"
   end
 
 end
