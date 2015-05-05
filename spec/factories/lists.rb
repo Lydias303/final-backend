@@ -1,7 +1,6 @@
 FactoryGirl.define do
   factory :list do
-    title "MyString"
-todo "MyString"
+    title "Grocery Shopping"
   end
 
 end
